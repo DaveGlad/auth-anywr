@@ -17,7 +17,9 @@ export default function Home() {
       <main
         className={`flex min-h-screen flex-col items-center justify-center p-24 `}
       >
-        <h1 className="text-center text-2xl font-bold mb-8">Hello Anywr</h1>
+        <h1 className="text-center text-2xl mb-8">
+          Hello <span className="font-bold">Anywr</span>
+        </h1>
 
         <Space>
           {isLoggedIn ? (

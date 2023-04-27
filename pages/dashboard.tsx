@@ -28,7 +28,7 @@ export default function Dashboard() {
       <main
         className={`flex min-h-screen flex-col items-center justify-center p-24 `}
       >
-        <h1 className="text-center">
+        <h1 className="text-center mb-8 text-2xl">
           Hello {infos?.firebase.email?.split('@')[0]}
         </h1>
 
