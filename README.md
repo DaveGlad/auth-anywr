@@ -14,25 +14,18 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Note technique
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Je suis ravi de vous fournir une note descriptive concernant la réalisation de mon test technique pour le poste de développeur frontend. J'ai eu à utiliser plusieurs outils pour réaliser ce test, notamment Next.js, Redux, Firebase, Tailwind et Ant Design.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Le choix d'utiliser Ant Design pour l'interface utilisateur est judicieux, car cela m'a permis d'avancer rapidement en termes de conception d'interface utilisateur. Ant Design est une bibliothèque de composants pour React qui permet de créer des interfaces utilisateur cohérentes et esthétiques avec un minimum d'efforts de développement.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Next.js est un framework React qui offre des avantages tels que le rendu côté serveur, le code partageable entre le serveur et le client, et la facilité de mise en place de la configuration du projet. Cela m'a permis de gagner du temps et de créer une applications performante et évolutive.
 
-## Learn More
+Redux est une bibliothèque de gestion d'état pour les applications JavaScript, qui permet de stocker les données de manière centralisée et de les utiliser à travers l'ensemble de l'application. Cela facilite la gestion des données de l'application et évite les problèmes de synchronisation.
 
-To learn more about Next.js, take a look at the following resources:
+Firebase est une plateforme de développement d'applications mobiles et web qui fournit des services de stockage de données en temps réel, d'authentification, de messagerie et d'hébergement. Cela m'a permis d'ajouter des fonctionnalités avancées à mon application sans avoir à gérer l'infrastructure backend.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Tailwind est un framework CSS qui facilite la conception de l'interface utilisateur en fournissant des classes pré-définies pour les styles courants. Cela m'a permis de gagner du temps et d'assurer une cohérence dans la conception de l'interface utilisateur.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Dans l'ensemble, l'utilisation de ces outils m'a permis de créer une application frontend robuste, performante et esthétique.
